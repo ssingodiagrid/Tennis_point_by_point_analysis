@@ -1,5 +1,5 @@
 # Tennis Point-by-Point Analysis
-![Alt Text](/Users/ssingodia/Downloads/Tennis/image.png)
+![Alt Text](/image.png)
 
 A comprehensive data analysis project investigating ATP tennis match dynamics through point-by-point (pbp) data. This project explores critical factors that influence match outcomes, including first-set advantage, player resilience, match duration, and the relationship between match intensity and duration.
 
